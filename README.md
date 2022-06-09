@@ -1,2 +1,2 @@
 # GPS - App Mobile
-App de GPS consumindo a API do Google Maps com Expo-Location
+Aplicativo de GPS consumindo a API do Google Maps com Expo-Location
